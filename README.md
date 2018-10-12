@@ -1,2 +1,2 @@
 # root-me_Cracking
-Writeup Root-me/Cracking challenges
+Writeup and code to solve Root-me/Cracking challenges
